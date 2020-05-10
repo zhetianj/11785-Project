@@ -1,0 +1,4 @@
+Dataset Link:
+
+real face image dataset: https://drive.google.com/file/d/1PcPHU59oFJ6vqXRSbCDO9aYJeXEUIVFN/view?usp=sharing
+anime face image dataset: https://drive.google.com/file/d/1ZMEVhs3dOT1K8K4kXXF96OJ4ulPKmPt_/view?usp=sharing
